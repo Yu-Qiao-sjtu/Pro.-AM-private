@@ -341,6 +341,58 @@
     "42711526": {
       "status": "skipped_no_abstract",
       "checked_at": "2026-09-10T01:20:18.953105+00:00"
+    },
+    "42725110": {
+      "status": "pending",
+      "processed_at": "2026-09-12T01:25:02.382212+00:00",
+      "article": {
+        "pmid": "42725110",
+        "doi": "10.1016/j.omtn.2026.103060",
+        "title": "Next-generation macrophage engineering in cancer therapy: From TAM reprogramming to CAR-macrophages.",
+        "abstract": "Macrophages are central regulators of the tumor microenvironment (TME), shaping immune suppression, angiogenesis, metabolism, and therapeutic resistance in solid cancers. While early strategies sought to deplete tumor-associated macrophages (TAMs) or block monocyte recruitment, limited efficacy and compensatory mechanisms revealed the need for functional reprogramming rather than elimination. Recent advances in viral vectors, CRISPR-Cas genome editing, and RNA-based delivery platforms have enabled precise genetic modification of macrophages, giving rise to chimeric antigen receptor macrophages (CAR-Ms) and related engineered products. Beyond antigen targeting, effective macrophage engineering requires stabilization of pro-inflammatory identity, resistance to tumor-induced repolarization, metabolic reinforcement, and integration of checkpoint modulation pathways. This review synthesizes current strategies across DNA, mRNA, and siRNA-based platforms, highlighting convergent design principles that connect TAM reprogramming with CAR-M development. We discuss reshaping phagocytosis checkpoints, metabolic and transcriptional stabilization, cytokine augmentation, and synthetic receptor architecture, emphasizing combinatorial and context-aware engineering, while proposing new candidate gene targets. Engineered macrophages are thus evolving from simple effector cells into programmable immune coordinators capable of converting immunologically \"cold\" tumors into inflamed, therapy-responsive niches.",
+        "journal": "Mol Ther Nucleic Acids",
+        "date": "2026 Sep 8",
+        "authors": "Nilova O, Zajakina A",
+        "publication_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "rank": {},
+        "insight": {},
+        "title_zh": "Next-generation macrophage engineering in cancer therapy: From TAM reprogramming to CAR-macrophages.",
+        "abstract_zh": "Macrophages are central regulators of the tumor microenvironment (TME), shaping immune suppression, angiogenesis, metabolism, and therapeutic resistance in solid cancers. While early strategies sought to deplete tumor-associated macrophages (TAMs) or block monocyte recruitment, limited efficacy and compensatory mechanisms revealed the need for functional reprogramming rather than elimination. Recent advances in viral vectors, CRISPR-Cas genome editing, and RNA-based delivery platforms have enabled precise genetic modification of macrophages, giving rise to chimeric antigen receptor macrophages (CAR-Ms) and related engineered products. Beyond antigen targeting, effective macrophage engineering requires stabilization of pro-inflammatory identity, resistance to tumor-induced repolarization, metabolic reinforcement, and integration of checkpoint modulation pathways. This review synthesizes current strategies across DNA, mRNA, and siRNA-based platforms, highlighting convergent design principles that connect TAM reprogramming with CAR-M development. We discuss reshaping phagocytosis checkpoints, metabolic and transcriptional stabilization, cytokine augmentation, and synthetic receptor architecture, emphasizing combinatorial and context-aware engineering, while proposing new candidate gene targets. Engineered macrophages are thus evolving from simple effector cells into programmable immune coordinators capable of converting immunologically \"cold\" tumors into inflamed, therapy-responsive niches.",
+        "topic_zh": "CAR-M嵌合抗原受体巨噬细胞研究速递"
+      }
+    },
+    "42723590": {
+      "status": "pending",
+      "processed_at": "2026-09-12T01:25:02.382212+00:00",
+      "article": {
+        "pmid": "42723590",
+        "doi": "10.1002/ctm2.70830",
+        "title": "Advances and challenges in immunotherapy for intrahepatic cholangiocarcinoma based on the tumour immune microenvironment.",
+        "abstract": "BACKGROUND: Intrahepatic cholangiocarcinoma (ICC) is a highly heterogeneous and aggressive malignancy originating from the intrahepatic bile duct epithelial cells. Despite advances in surgery, chemotherapy, targeted therapy, and immune checkpoint inhibitor (ICI)-based regimens, durable disease control remains limited by primary or acquired resistance and marked biological heterogeneity. MAIN BODY: Immunotherapy, primarily based on ICIs, has shown clinical potential for advanced ICC; however, its activity is constrained by a highly immunosuppressive tumour microenvironment (TME), including desmoplastic stromal barriers, myeloid-cell-mediated suppression, impaired antigen presentation, cytokine- and chemokine-driven immune exclusion, and metabolic remodeling. This review summarizes the tumour immune microenvironment (TIME) of ICC, with emphasis on cellular crosstalk among stromal, myeloid, and lymphoid compartments, extracellular matrix remodeling, metabolic constraints, and immune-escape processes. We critically appraised first-line chemoimmunotherapy evidence from advanced biliary tract cancer (BTC) trials and interpreted its relevance to ICC according to clinical evidence, tumour location, molecular subtype, and biomarker context. Biomarkers are discussed according to their current level of clinical validation, and molecular alterations, such as FGFR2 fusions, IDH1 mutations, and BAP1/ARID1A alterations, are considered in relation to immune phenotypes and mechanism-guided combination hypotheses. Finally, we evaluated emerging approaches, including next-generation checkpoint inhibitors, antibody-drug conjugates, bispecific antibodies, CAR-T/CAR-macrophage (CAR-M)/CAR-natural killer (CAR-NK) cell therapies, cancer vaccines, and dendritic cell-based interventions, with particular attention paid to antigen heterogeneity, stromal trafficking barriers, manufacturing complexity, and the limited maturity of ICC-specific clinical evidence. CONCLUSIONS: By integrating the mechanism, clinical evidence, molecular subtype and translational limitations, this review provides a balanced framework for biomarker-guided precision immunotherapy in ICC. KEY POINTS: The clinical evidence and limitations of immunotherapy for intrahepatic cholangiocarcinoma are critically evaluated, with emphasis on ICC-specific interpretation of broader biliary tract cancer trials. The ICC tumour immune microenvironment is integrated into functional immune axes involving stromal, myeloid, lymphoid and metabolic regulation. Molecular subtypes and immune-related biomarkers provide a framework for biomarker-guided precision immunotherapy in ICC. Current ICC immunotherapy trials remain limited by heterogeneous designs, small ICC-specific cohorts and immature clinical evidence. Emerging immunotherapies, including next-generation checkpoint inhibitors, antibody-drug conjugates, cellular therapies and vaccines, require ICC-specific evaluation of biological barriers and clinical feasibility.",
+        "journal": "Clin Transl Med",
+        "date": "2026 Sep",
+        "authors": "Chen M, Jin S, Zhou Y, Tong J, Zhao Y, et al.",
+        "publication_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "*Cholangiocarcinoma/immunology/therapy/drug therapy",
+          "*Tumor Microenvironment/immunology/drug effects",
+          "*Immunotherapy/methods/trends",
+          "*Bile Duct Neoplasms/immunology/drug therapy/therapy"
+        ],
+        "rank": {},
+        "insight": {},
+        "title_zh": "Advances and challenges in immunotherapy for intrahepatic cholangiocarcinoma based on the tumour immune microenvironment.",
+        "abstract_zh": "BACKGROUND: Intrahepatic cholangiocarcinoma (ICC) is a highly heterogeneous and aggressive malignancy originating from the intrahepatic bile duct epithelial cells. Despite advances in surgery, chemotherapy, targeted therapy, and immune checkpoint inhibitor (ICI)-based regimens, durable disease control remains limited by primary or acquired resistance and marked biological heterogeneity. MAIN BODY: Immunotherapy, primarily based on ICIs, has shown clinical potential for advanced ICC; however, its activity is constrained by a highly immunosuppressive tumour microenvironment (TME), including desmoplastic stromal barriers, myeloid-cell-mediated suppression, impaired antigen presentation, cytokine- and chemokine-driven immune exclusion, and metabolic remodeling. This review summarizes the tumour immune microenvironment (TIME) of ICC, with emphasis on cellular crosstalk among stromal, myeloid, and lymphoid compartments, extracellular matrix remodeling, metabolic constraints, and immune-escape processes. We critically appraised first-line chemoimmunotherapy evidence from advanced biliary tract cancer (BTC) trials and interpreted its relevance to ICC according to clinical evidence, tumour location, molecular subtype, and biomarker context. Biomarkers are discussed according to their current level of clinical validation, and molecular alterations, such as FGFR2 fusions, IDH1 mutations, and BAP1/ARID1A alterations, are considered in relation to immune phenotypes and mechanism-guided combination hypotheses. Finally, we evaluated emerging approaches, including next-generation checkpoint inhibitors, antibody-drug conjugates, bispecific antibodies, CAR-T/CAR-macrophage (CAR-M)/CAR-natural killer (CAR-NK) cell therapies, cancer vaccines, and dendritic cell-based interventions, with particular attention paid to antigen heterogeneity, stromal trafficking barriers, manufacturing complexity, and the limited maturity of ICC-specific clinical evidence. CONCLUSIONS: By integrating the mechanism, clinical evidence, molecular subtype and translational limitations, this review provides a balanced framework for biomarker-guided precision immunotherapy in ICC. KEY POINTS: The clinical evidence and limitations of immunotherapy for intrahepatic cholangiocarcinoma are critically evaluated, with emphasis on ICC-specific interpretation of broader biliary tract cancer trials. The ICC tumour immune microenvironment is integrated into functional immune axes involving stromal, myeloid, lymphoid and metabolic regulation. Molecular subtypes and immune-related biomarkers provide a framework for biomarker-guided precision immunotherapy in ICC. Current ICC immunotherapy trials remain limited by heterogeneous designs, small ICC-specific cohorts and immature clinical evidence. Emerging immunotherapies, including next-generation checkpoint inhibitors, antibody-drug conjugates, cellular therapies and vaccines, require ICC-specific evaluation of biological barriers and clinical feasibility.",
+        "topic_zh": "CAR-M嵌合抗原受体巨噬细胞研究速递"
+      }
     }
   },
   "last_successful_delivery": null
